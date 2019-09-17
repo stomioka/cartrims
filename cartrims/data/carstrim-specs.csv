@@ -1,0 +1,48 @@
+doorCount,drivetrain,engine,make,mpg,price,seats,trim,warranty,year
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$9,348-$21,228",8,2012 Toyota Sienna XLE V6 8 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$9,348-$21,228",7,2012 Toyota Sienna XLE 7 Passenger 4dr All-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"90-hp, 1.9-liter I-4 (diesel)",the,27,"$4,976-$5,724",5,2002 Volkswagen Golf GLS TDI 4dr Hatchback,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"200-hp, 2.0-liter I-4 (premium)",the,21,"$6,363-$11,451",5,2010 Volkswagen Tiguan SE 4dr Front-wheel Drive,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,,"200-hp, 2.0-liter I-4 (premium)",the,21,"$4,845-$11,973",5,2010 Volkswagen Tiguan S 4dr All-wheel Drive 4Motion,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+2,,"168-hp, 2.5-liter I-6 (premium)",the,25,"$5,999-$5,999",5,1998 BMW 323 is 2dr Coupe,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$8,415-$17,443",7,2012 Toyota Sienna LE 7 Passenger 4dr All-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+2,FWD,"175-hp, 3.4-liter V-6 (regular gas)",the,24,"$1,858-$6,854",5,2005 Pontiac Grand Am GT 2dr Coupe,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,4WD,"205-hp, 3.2-liter V-6 (regular gas)",the,18,"$4,900-$4,900",5,2000 Isuzu Rodeo S 4dr 4x4,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+4,4WD,"205-hp, 3.2-liter V-6 (regular gas)",the,18,,5,2000 Isuzu Rodeo LS 4dr 4x4,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+2,RWD,"400-hp, 6.8-liter V-8 (premium)",the,13,"$74,500-$74,500",4,2003 Bentley Azure Base 2dr Convertible,"Bumper-to-Bumper, 36 mo/100,000 mi",Show
+4,,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$12,438-$22,650",7,2012 Toyota Sienna Limited 7 Passenger 4dr All-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"200-hp, 2.0-liter I-4 (premium)",the,21,"$4,845-$11,973",5,2010 Volkswagen Tiguan S 4dr Front-wheel Drive,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,,"211-hp, 2.0-liter I-4 (premium)",the,25,"$5,710-$13,638",5,2011 Audi A4 2.0T Premium 4dr All-wheel Drive quattro Sedan,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"200-hp, 2.0-liter I-4 (premium)",the,21,"$6,595-$14,323",5,2010 Volkswagen Tiguan SEL 4dr Front-wheel Drive,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$7,201-$20,957",7,2012 Toyota Sienna Base V6 7 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"174-hp, 2.0-liter I-4 (regular gas)",the,29,,5,2018 Volkswagen Passat 2.0T SE 4dr Sedan,"Bumper-to-Bumper, 72 mo/72,000 mi",Show
+4,FWD,"174-hp, 2.0-liter I-4 (regular gas)",the,29,,5,2018 Volkswagen Passat 2.0T S 4dr Sedan,"Bumper-to-Bumper, 72 mo/72,000 mi",Show
+2,FWD,"175-hp, 3.4-liter V-6 (regular gas)",the,24,"$2,995-$2,995",5,2005 Pontiac Grand Am GT1 2dr Coupe,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,RWD,"130-hp, 2.2-liter I-4 (regular gas)",the,18,"$4,900-$4,900",5,2000 Isuzu Rodeo S 2.2L 4dr 4x2,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+4,RWD,"205-hp, 3.2-liter V-6 (regular gas)",the,18,,5,2000 Isuzu Rodeo LSE 4dr 4x2,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$8,415-$17,443",8,2012 Toyota Sienna LE V6 8 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+2,FWD,"90-hp, 1.9-liter I-4 (diesel)",the,27,"$2,300-$2,300",5,2002 Volkswagen Golf GL TDI 2dr Hatchback,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$9,456-$24,184",8,2012 Toyota Sienna SE 8 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"174-hp, 2.0-liter I-4 (regular gas)",the,29,,5,2018 Volkswagen Passat 2.0T R-Line 4dr Sedan,"Bumper-to-Bumper, 72 mo/72,000 mi",Show
+4,RWD,"205-hp, 3.2-liter V-6 (regular gas)",the,18,"$2,649-$7,301",5,2000 Isuzu Rodeo LS 4dr 4x2,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+4,FWD,"115-hp, 2.0-liter I-4 (regular gas)",the,27,"$863-$7,799",5,2002 Volkswagen Golf GLS 2.0L 4dr Hatchback,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"115-hp, 2.0-liter I-4 (regular gas)",the,27,"$311-$3,183",5,2002 Volkswagen Golf GL 2.0L 4dr Hatchback,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"280-hp, 3.6-liter V-6 (premium)",the,29,,5,2018 Volkswagen Passat 3.6L V6 SEL Premium 4dr Sedan,"Bumper-to-Bumper, 72 mo/72,000 mi",Show
+4,FWD,"211-hp, 2.0-liter I-4 (premium)",the,25,"$6,298-$11,994",5,2011 Audi A4 2.0T Premium 4dr Front-wheel Drive FrontTrak Sedan,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$11,906-$11,906",7,2012 Toyota Sienna LE V6 7 Passenger Auto Access Seat 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"200-hp, 2.0-liter I-4 (premium)",the,21,"$6,254-$12,414",5,2010 Volkswagen Tiguan Wolfsburg Edition 4dr Front-wheel Drive,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"187-hp, 2.7-liter I-4 (regular gas)",the,21,"$8,415-$17,443",8,2012 Toyota Sienna LE 8 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,,"200-hp, 2.0-liter I-4 (premium)",the,21,"$6,363-$11,451",5,2010 Volkswagen Tiguan SE 4dr All-wheel Drive 4Motion,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,RWD,"205-hp, 3.2-liter V-6 (regular gas)",the,18,"$4,900-$4,900",5,2000 Isuzu Rodeo S 3.2L 4dr 4x2,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+4,FWD,"90-hp, 1.9-liter I-4 (diesel)",the,27,"$2,300-$2,300",5,2002 Volkswagen Golf GL TDI 4dr Hatchback,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+2,FWD,"115-hp, 2.0-liter I-4 (regular gas)",the,27,"$311-$3,183",5,2002 Volkswagen Golf GL 2.0L 2dr Hatchback,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,,"200-hp, 2.0-liter I-4 (premium)",the,21,"$6,254-$12,414",5,2010 Volkswagen Tiguan Wolfsburg Edition 4dr All-wheel Drive 4Motion,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$13,975-$13,975",7,2012 Toyota Sienna XLE V6 7 Passenger Auto Access Seat 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+2,,"168-hp, 2.5-liter I-6 (premium)",the,25,"$3,717-$7,693",4,1998 BMW 323 iC 2dr Convertible,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"187-hp, 2.7-liter I-4 (regular gas)",the,21,"$7,201-$20,957",7,2012 Toyota Sienna Base 7 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,FWD,"280-hp, 3.6-liter V-6 (premium)",the,29,,5,2018 Volkswagen Passat 3.6L V6 GT 4dr Sedan,"Bumper-to-Bumper, 72 mo/72,000 mi",Show
+4,,"200-hp, 2.0-liter I-4 (premium)",the,21,"$6,595-$14,323",5,2010 Volkswagen Tiguan SEL 4dr All-wheel Drive 4Motion,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,4WD,"205-hp, 3.2-liter V-6 (regular gas)",the,18,,5,2000 Isuzu Rodeo LSE 4dr 4x4,"Bumper-to-Bumper, 36 mo/50,000 mi",Show
+4,FWD,"266-hp, 3.5-liter V-6 (regular gas)",the,21,"$12,438-$22,650",7,2012 Toyota Sienna Limited V6 7 Passenger 4dr Front-wheel Drive Passenger Van,"Bumper-to-Bumper, 36 mo/36,000 mi",Show
+4,,"211-hp, 2.0-liter I-4 (premium)",the,25,"$4,290-$17,986",5,2011 Audi A4 2.0T Premium 4dr All-wheel Drive quattro Avant,"Bumper-to-Bumper, 48 mo/50,000 mi",Show
+4,FWD,"174-hp, 2.0-liter I-4 (regular gas)",the,29,,5,2018 Volkswagen Passat 2.0T SEL Premium 4dr Sedan,"Bumper-to-Bumper, 72 mo/72,000 mi",Show

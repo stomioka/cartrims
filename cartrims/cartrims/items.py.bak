@@ -12,7 +12,7 @@ class CartrimsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     
-    Category            = scrapy.Field()
+    trim            = scrapy.Field()
     year            = scrapy.Field()
     make            = scrapy.Field()     
     price           = scrapy.Field()
